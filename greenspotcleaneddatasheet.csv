@@ -1,0 +1,23 @@
+Item num,description,item type,Unit,Location,quantity on-hand,vendor,Quantity,cost,purchase date,customer ,date sold,price
+,,,,,,,,,,,,
+1000,Bennet Farm free-range eggs,Dairy,dozen,D12,29,"Bennet Farms, Rt. 17 Evansville, IL 55446",25,2.35,2/1/2022,,,
+1000,Bennet Farm free-range eggs,Dairy,dozen,D12,27,,2,,,198765,2/2/2022,5.49
+2000,Ruby's Kale,Produce,bunch,p12,3,,2,,, ,2/2/2022,3.99
+1100,Freshness White beans,Canned,12 ounce can,a2,13,,2,,,202900,2/2/2022,1.49
+1100,Freshness White beans,Canned,12 oz can,a2,53,"Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678",40,0.69,2/2/2022,,,
+1000,Bennet Farm free-range eggs,Dairy,dozen,D12,25,,2,,,196777,2/4/2022,5.99
+1100,Freshness White beans,Canned,12-oz can,a2,45,,8,,,198765,2/7/2022,1.49
+1222,Freshness Green beans,Canned,12 ounce can,a3,59,"Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678",40,0.59,2/10/2022,,,
+1223,Freshness Green beans,Canned,36 oz can,a7,12,"Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678",10,1.75,2/10/2022,,,
+1224,Freshness Wax beans,Canned,12 ounce can,a3,31,"Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678",30,0.65,2/10/2022,,,
+1000,Bennet Farm free-range eggs,Dairy,dozen,d12,21,,4,,,277177,2/11/2022,5.49
+1100,Freshness White beans,Canned,12 ounce can,a2,41,,4, ,,,2/11/2022,1.49
+1222,Freshness Green beans,Canned,12-oz can,a3,47,,12,,,111000,2/12/2022,1.29
+1224,Freshness Wax beans,Canned,12-oz can,a3,23,,8,,,,2/12/2022,1.55
+2000,Ruby's Kale,Produce,bunch,p12,28,"Ruby Redd Produce, LLC, 1212 Milam St., Kenosha, AL, 34567",25,1.29,2/12/2022,,,
+2001,Ruby's Organic Kale,Produce,bunch,po2,20,"Ruby Redd Produce, LLC, 1212 Milam St., Kenosha, AL, 34567",20,2.19,2/12/2022,,,
+1223,Freshness Green beans,Canned,36 oz can,a7,7,,5,,,198765,2/13/2022,3.49
+2001,Ruby's Organic Kale,Produce,bunch,po2,19,,1,,,100988,2/13/2022,6.99
+2001,Ruby's Organic Kale,Produce,bunch,po2,7,,12,,,202900,2/14/2022,6.99
+1223,Freshness Green beans,Canned,36 oz can,a7,17,"Freshness, Inc., 202 E. Maple St., St. Joseph, MO 45678",10,1.8,2/15/2022,,,
+2000,Ruby's Kale,Produce,bunch,p12,26,,2,,,111000,2/15/2022,3.99
